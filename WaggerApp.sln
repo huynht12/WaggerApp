@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaggerApp", "WaggerApp.csproj", "{99C2E767-0BBB-4E46-9E27-7ACCC683B794}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99C2E767-0BBB-4E46-9E27-7ACCC683B794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C2E767-0BBB-4E46-9E27-7ACCC683B794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C2E767-0BBB-4E46-9E27-7ACCC683B794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C2E767-0BBB-4E46-9E27-7ACCC683B794}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FB9990B-3422-4D32-A831-66ACBE060938}
+	EndGlobalSection
+EndGlobal
