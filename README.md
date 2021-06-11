@@ -3,6 +3,6 @@
 # Supporting Wire Frame
 # ![Image of WireFrame](Documentations/WireFrame.png)
 # High-Level Flow
-# !(Documentations/High-Level Flow.jpg)
+# ![image](Documentations/High-Level Flow.jpg)
 # Preference Selections
 # ![Image of Preferences](Documentations/Preference selection.jpg)
