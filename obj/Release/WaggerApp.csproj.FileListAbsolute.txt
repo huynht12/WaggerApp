@@ -1,0 +1,16 @@
+C:\Users\huynh\source\repos\WaggerApp\bin\Release\WaggerApp.exe.config
+C:\Users\huynh\source\repos\WaggerApp\bin\Release\WaggerApp.exe
+C:\Users\huynh\source\repos\WaggerApp\bin\Release\WaggerApp.pdb
+C:\Users\huynh\source\repos\WaggerApp\obj\Release\WaggerApp.csproj.AssemblyReference.cache
+C:\Users\huynh\source\repos\WaggerApp\obj\Release\WaggerApp.LogIn.resources
+C:\Users\huynh\source\repos\WaggerApp\obj\Release\WaggerApp.MainPage.resources
+C:\Users\huynh\source\repos\WaggerApp\obj\Release\WaggerApp.Preferences.resources
+C:\Users\huynh\source\repos\WaggerApp\obj\Release\WaggerApp.Properties.Resources.resources
+C:\Users\huynh\source\repos\WaggerApp\obj\Release\WaggerApp.Registration.resources
+C:\Users\huynh\source\repos\WaggerApp\obj\Release\WaggerApp.RegistrationComplete.resources
+C:\Users\huynh\source\repos\WaggerApp\obj\Release\WaggerApp.csproj.GenerateResource.cache
+C:\Users\huynh\source\repos\WaggerApp\obj\Release\WaggerApp.csproj.CoreCompileInputs.cache
+C:\Users\huynh\source\repos\WaggerApp\obj\Release\WaggerApp.exe
+C:\Users\huynh\source\repos\WaggerApp\obj\Release\WaggerApp.pdb
+C:\Users\huynh\source\repos\WaggerApp\obj\Release\WaggerApp.PetProfile.resources
+C:\Users\huynh\source\repos\WaggerApp\obj\Release\WaggerApp.UserProfile.resources
